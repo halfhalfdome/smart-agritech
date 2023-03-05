@@ -1,0 +1,35 @@
+body {
+  background-color: #c4d4b4;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#calendar {
+  margin: 30px auto;
+  max-width: 900px;
+}
+
+.fc-day-header {
+  background-color: #8aae82;
+  color: #fff;
+  font-weight: bold;
+}
+
+.fc-today {
+  background-color: #dae4c4;
+}
+
+.fc-event {
+  background-color: #f5b5d6;
+  border-color: #f5b5d6;
+  color: #fff;
+}
+
+.fc-button {
+  background-color: #8aae82;
+  border-color: #8aae82;
+}
+
+.fc-button:hover {
+  background-color: #6c8f66;
+  border-color: #6c8f66;
+}
